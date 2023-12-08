@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb64074.css",
+    "main.js": "/static/js/main.3816fd13.js",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.2b7b7f6c8554ad96436b.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.0baf4e4829ca0a3e1e5c.ttf",
+    "static/media/background_static.jpg": "/static/media/background_static.2468670e18784aadd0c8.jpg",
+    "static/media/background_main_1.png": "/static/media/background_main_1.f9237e217ca4cebd1099.png",
+    "static/media/han-solo.jpg": "/static/media/han-solo.84705bac66e252072c67.jpg",
+    "static/media/like_filled.svg": "/static/media/like_filled.d288919b870c2b240ada7ade3c781103.svg",
+    "static/media/like.svg": "/static/media/like.61d787a01fa8027ada0f0499bee1503b.svg",
+    "static/media/like_stroke.svg": "/static/media/like_stroke.ad1f06ddb37d80afd3663a6ddcc8762a.svg",
+    "index.html": "/index.html",
+    "main.cdb64074.css.map": "/static/css/main.cdb64074.css.map",
+    "main.3816fd13.js.map": "/static/js/main.3816fd13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb64074.css",
+    "static/js/main.3816fd13.js"
+  ]
+}
