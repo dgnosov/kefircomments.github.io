@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kefircomments.github.io/static/css/main.0c55a01c.css",
+    "main.css": "/kefircomments.github.io/static/css/main.dbfb892e.css",
     "main.js": "/kefircomments.github.io/static/js/main.84602cf8.js",
     "static/media/Lato-Regular.ttf": "/kefircomments.github.io/static/media/Lato-Regular.2b7b7f6c8554ad96436b.ttf",
     "static/media/Lato-Bold.ttf": "/kefircomments.github.io/static/media/Lato-Bold.0baf4e4829ca0a3e1e5c.ttf",
@@ -12,11 +12,11 @@
     "static/media/error.svg": "/kefircomments.github.io/static/media/error.b48bdaf995967d7b579231e7dc6a3718.svg",
     "static/media/like_stroke.svg": "/kefircomments.github.io/static/media/like_stroke.ad1f06ddb37d80afd3663a6ddcc8762a.svg",
     "index.html": "/kefircomments.github.io/index.html",
-    "main.0c55a01c.css.map": "/kefircomments.github.io/static/css/main.0c55a01c.css.map",
+    "main.dbfb892e.css.map": "/kefircomments.github.io/static/css/main.dbfb892e.css.map",
     "main.84602cf8.js.map": "/kefircomments.github.io/static/js/main.84602cf8.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c55a01c.css",
+    "static/css/main.dbfb892e.css",
     "static/js/main.84602cf8.js"
   ]
 }
